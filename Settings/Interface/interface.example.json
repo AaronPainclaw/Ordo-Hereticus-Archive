@@ -1,0 +1,9 @@
+{
+  "theme": "ordo-hereticus-terminal",
+  "reducedColorPalette": true,
+  "crtStartupAnimation": true,
+  "analogTerminalSounds": true,
+  "ambientHumVolume": 0.2,
+  "showAquila": true,
+  "showInquisitionSeal": true
+}
