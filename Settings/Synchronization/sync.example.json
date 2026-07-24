@@ -1,0 +1,15 @@
+{
+  "provider": "github",
+  "repository": "AaronPainclaw/Ordo-Hereticus-Archive",
+  "branch": "main",
+  "checkIntervalMinutes": 15,
+  "mode": "safe-mirror",
+  "downloadChangedFiles": true,
+  "quarantineDeletedFiles": true,
+  "protectedLocalPaths": [
+    "user-documents",
+    "local-settings",
+    "logs",
+    "quarantine"
+  ]
+}
