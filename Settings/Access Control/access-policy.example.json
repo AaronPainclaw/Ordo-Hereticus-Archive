@@ -1,0 +1,17 @@
+{
+  "defaultRole": "viewer",
+  "roles": {
+    "viewer": [
+      "read"
+    ],
+    "administrator": [
+      "read",
+      "create",
+      "upload",
+      "modify",
+      "delete",
+      "synchronize"
+    ]
+  },
+  "storeRealCredentialsInRepository": false
+}
