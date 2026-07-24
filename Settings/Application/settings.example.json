@@ -1,0 +1,7 @@
+{
+  "applicationName": "Ordo Hereticus Archive",
+  "contentRoot": "./",
+  "language": "ru-RU",
+  "checkForUpdatesOnStartup": true,
+  "safeMode": true
+}
