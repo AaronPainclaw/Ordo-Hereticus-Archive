@@ -2,12 +2,35 @@
   "schemaVersion": 1,
   "layoutVersion": 5,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-07-28T19:18:10.698Z",
+  "generatedAt": "2026-07-28T19:25:02.972Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "3.2.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "github-772578ac63951dd46482d63e1633e079",
+      "path": "Documents/IRRB_Tyurma_Vremeni_Dosye.docx",
+      "title": "IRRB_Tyurma_Vremeni_Dosye",
+      "fileName": "IRRB_Tyurma_Vremeni_Dosye.docx",
+      "extension": ".docx",
+      "category": "document",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "transport": "git-blob",
+      "size": 78733,
+      "sha256": "aff6641577a0fb99b626fdf2a1f9fbdd31f0e39c15d0f7a3f37dbc83a9be5cf1",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-07-28T19:25:02.969Z",
+      "updatedAt": "2026-07-28T19:25:02.969Z",
+      "originalModifiedAt": "2026-07-28T19:25:02.969Z",
+      "origin": "github",
+      "documentTemplate": null,
+      "createdBy": null
+    }
+  ],
   "tombstones": [
     {
       "id": "ceeb726d-23a6-4f68-8838-8446f319f3cc",
@@ -17,5 +40,5 @@
       "deletedAt": "2026-07-28T16:50:22.916Z"
     }
   ],
-  "contentHash": "d0c2346bb20baa3f5ee823b00f783431bea02d9b41206752ed78d8521109b6c6"
+  "contentHash": "0b2cc0fc9af5259be56baa1e60263f745f316f37370135ae2d423ab3e5217341"
 }
