@@ -2,12 +2,34 @@
   "schemaVersion": 1,
   "layoutVersion": 5,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-07-28T19:25:02.972Z",
+  "generatedAt": "2026-07-28T19:25:25.439Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "3.2.0"
   },
   "documents": [
+    {
+      "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
+      "path": "Documents/~$RB_Tyurma_Vremeni_Dosye.docx",
+      "title": "~$RB_Tyurma_Vremeni_Dosye",
+      "fileName": "~$RB_Tyurma_Vremeni_Dosye.docx",
+      "extension": ".docx",
+      "category": "document",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "transport": "git-blob",
+      "size": 162,
+      "sha256": "94b4e8cad69416a4c172a42aa5a612c4acfad8eb624d125148809e0b1ef14936",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-07-28T19:25:25.437Z",
+      "updatedAt": "2026-07-28T19:25:25.437Z",
+      "originalModifiedAt": "2026-07-28T19:25:24.235Z",
+      "origin": "workspace",
+      "documentTemplate": null,
+      "createdBy": null
+    },
     {
       "id": "github-772578ac63951dd46482d63e1633e079",
       "path": "Documents/IRRB_Tyurma_Vremeni_Dosye.docx",
@@ -40,5 +62,5 @@
       "deletedAt": "2026-07-28T16:50:22.916Z"
     }
   ],
-  "contentHash": "0b2cc0fc9af5259be56baa1e60263f745f316f37370135ae2d423ab3e5217341"
+  "contentHash": "d8fbd581e7e7d17cce31da46acbf4d0be21ec61c2de6c031cbd30ce2ca8312fb"
 }
