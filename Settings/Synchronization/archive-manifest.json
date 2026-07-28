@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "layoutVersion": 5,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-07-28T19:25:25.439Z",
+  "generatedAt": "2026-07-28T19:25:31.779Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "3.2.0"
@@ -25,7 +25,7 @@
       "version": 1,
       "addedAt": "2026-07-28T19:25:25.437Z",
       "updatedAt": "2026-07-28T19:25:25.437Z",
-      "originalModifiedAt": "2026-07-28T19:25:24.235Z",
+      "originalModifiedAt": "2026-07-28T19:25:31.768Z",
       "origin": "workspace",
       "documentTemplate": null,
       "createdBy": null
@@ -62,5 +62,5 @@
       "deletedAt": "2026-07-28T16:50:22.916Z"
     }
   ],
-  "contentHash": "d8fbd581e7e7d17cce31da46acbf4d0be21ec61c2de6c031cbd30ce2ca8312fb"
+  "contentHash": "9bbeee31df1e8fa41bd762a3e5b46004aebcabed3027fbf643b73dde48152dea"
 }
