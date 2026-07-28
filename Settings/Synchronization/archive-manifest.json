@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "layoutVersion": 5,
+  "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
+  "generatedAt": "2026-07-28T19:18:10.698Z",
+  "sourceApplication": {
+    "id": "ordo-hereticus-archive",
+    "version": "3.2.0"
+  },
+  "documents": [],
+  "tombstones": [
+    {
+      "id": "ceeb726d-23a6-4f68-8838-8446f319f3cc",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-07-24T20-09-01-563Z__ceeb726df319f3cc.txt",
+      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-07-24T20-09-01-563Z.txt",
+      "version": 2,
+      "deletedAt": "2026-07-28T16:50:22.916Z"
+    }
+  ],
+  "contentHash": "d0c2346bb20baa3f5ee823b00f783431bea02d9b41206752ed78d8521109b6c6"
+}
