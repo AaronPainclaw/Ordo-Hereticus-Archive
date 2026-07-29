@@ -2,39 +2,12 @@
   "schemaVersion": 1,
   "layoutVersion": 5,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-07-29T18:09:24.625Z",
+  "generatedAt": "2026-07-29T18:22:33.176Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "4.0.0"
   },
-  "documents": [
-    {
-      "id": "edf85e8f-6f47-492b-bb7a-038349638fce",
-      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Abort-2026-07-29T11-41-20-192Z__edf85e8f49638fce.txt",
-      "title": "Отчёт Очищающей литании — прерывание 29.07.2026, 14:41:20",
-      "fileName": "Ordo-Hereticus-Cleansing-Abort-2026-07-29T11-41-20-192Z.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 2146,
-      "sha256": "9bea6d9248a60e1315d0b634d6c366035f20b257f4168e1dc5407770e755dfb2",
-      "classification": "ОСОБОЙ ВАЖНОСТИ",
-      "tags": [
-        "Очищающая литания Омниссии",
-        "Инцидент",
-        "Прерывание"
-      ],
-      "notes": "Автоматически созданный журнал прерванной Очищающей литании Омниссии.",
-      "version": 1,
-      "addedAt": "2026-07-29T18:09:24.614Z",
-      "updatedAt": "2026-07-29T18:09:24.614Z",
-      "originalModifiedAt": "2026-07-29T18:09:24.614Z",
-      "origin": "system",
-      "documentTemplate": null,
-      "createdBy": null
-    }
-  ],
+  "documents": [],
   "tombstones": [
     {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
@@ -51,6 +24,13 @@
       "deletedAt": "2026-07-28T16:50:22.916Z"
     },
     {
+      "id": "edf85e8f-6f47-492b-bb7a-038349638fce",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Abort-2026-07-29T11-41-20-192Z__edf85e8f49638fce.txt",
+      "fileName": "Ordo-Hereticus-Cleansing-Abort-2026-07-29T11-41-20-192Z.txt",
+      "version": 2,
+      "deletedAt": "2026-07-29T18:22:33.172Z"
+    },
+    {
       "id": "github-772578ac63951dd46482d63e1633e079",
       "path": "Documents/IRRB_Tyurma_Vremeni_Dosye.docx",
       "fileName": "IRRB_Tyurma_Vremeni_Dosye.docx",
@@ -58,5 +38,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "8107b52436f12bdb2d5c1ebb17e58fefcba7358426b7377803301736147b567f"
+  "contentHash": "f57e055f3ca699ae56852316739f8a3663ad96dd41f56e3216b207e999d8db66"
 }
