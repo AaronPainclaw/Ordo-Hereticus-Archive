@@ -2,57 +2,12 @@
   "schemaVersion": 1,
   "layoutVersion": 5,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-09T10:13:17.021Z",
+  "generatedAt": "2026-08-09T10:16:10.418Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "4.0.0"
   },
-  "documents": [
-    {
-      "id": "a75ba1d9-2ddd-4abe-b77f-c36d1bc2cf43",
-      "path": "Video/Warhammer 40k Chaos Gate - Ultramarines Chant (cover)__a75ba1d91bc2cf43.mp4",
-      "title": "Warhammer 40k Chaos Gate - Ultramarines Chant (cover)",
-      "fileName": "Warhammer 40k Chaos Gate - Ultramarines Chant (cover).mp4",
-      "extension": ".mp4",
-      "category": "video",
-      "mime": "video/mp4",
-      "transport": "git-lfs",
-      "size": 5085268,
-      "sha256": "b8505c78c0f12558e85a78cc9c79614a0d4dc07527b7076eea9dc4bbfc620698",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-09T10:13:17.019Z",
-      "updatedAt": "2026-08-09T10:13:17.019Z",
-      "originalModifiedAt": "2026-07-31T17:18:51.813Z",
-      "origin": null,
-      "documentTemplate": null,
-      "createdBy": null
-    },
-    {
-      "id": "ddf099e5-6bf9-433e-b79d-9c8c8d8fad97",
-      "path": "Audio/Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k)__ddf099e58d8fad97.mp3",
-      "title": "Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k)",
-      "fileName": "Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k).mp3",
-      "extension": ".mp3",
-      "category": "audio",
-      "mime": "audio/mpeg",
-      "transport": "git-lfs",
-      "size": 9221722,
-      "sha256": "20faf3ffce1bd85d7c1c498bd3006960e64f42bcabc0de30a6ba4f32fd320f17",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-09T10:12:48.601Z",
-      "updatedAt": "2026-08-09T10:12:48.601Z",
-      "originalModifiedAt": "2026-08-01T23:51:52.483Z",
-      "origin": null,
-      "documentTemplate": null,
-      "createdBy": null
-    }
-  ],
+  "documents": [],
   "tombstones": [
     {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
@@ -62,11 +17,25 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     },
     {
+      "id": "a75ba1d9-2ddd-4abe-b77f-c36d1bc2cf43",
+      "path": "Video/Warhammer 40k Chaos Gate - Ultramarines Chant (cover)__a75ba1d91bc2cf43.mp4",
+      "fileName": "Warhammer 40k Chaos Gate - Ultramarines Chant (cover).mp4",
+      "version": 2,
+      "deletedAt": "2026-08-09T10:16:10.414Z"
+    },
+    {
       "id": "ceeb726d-23a6-4f68-8838-8446f319f3cc",
       "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-07-24T20-09-01-563Z__ceeb726df319f3cc.txt",
       "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-07-24T20-09-01-563Z.txt",
       "version": 2,
       "deletedAt": "2026-07-28T16:50:22.916Z"
+    },
+    {
+      "id": "ddf099e5-6bf9-433e-b79d-9c8c8d8fad97",
+      "path": "Audio/Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k)__ddf099e58d8fad97.mp3",
+      "fileName": "Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k).mp3",
+      "version": 2,
+      "deletedAt": "2026-08-09T10:16:10.414Z"
     },
     {
       "id": "edf85e8f-6f47-492b-bb7a-038349638fce",
@@ -83,5 +52,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "fc595de9d480fb5be4071333b022fbca18faf9ad69f46c8f9efbbb56aa696492"
+  "contentHash": "e09e4a60e8ea4a45b2d23798ab2abb99d373e589c2ea51a5401c4a74407c51e5"
 }
