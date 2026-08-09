@@ -2,12 +2,35 @@
   "schemaVersion": 1,
   "layoutVersion": 5,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-07-29T18:22:33.176Z",
+  "generatedAt": "2026-08-09T10:12:48.604Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "4.0.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "ddf099e5-6bf9-433e-b79d-9c8c8d8fad97",
+      "path": "Audio/Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k)__ddf099e58d8fad97.mp3",
+      "title": "Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k)",
+      "fileName": "Helldivers 2 Theme x Space Marine 2 Theme _ ULTRA EPIC VERSION (Warhammer 40k).mp3",
+      "extension": ".mp3",
+      "category": "audio",
+      "mime": "audio/mpeg",
+      "transport": "git-lfs",
+      "size": 9221722,
+      "sha256": "20faf3ffce1bd85d7c1c498bd3006960e64f42bcabc0de30a6ba4f32fd320f17",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-09T10:12:48.601Z",
+      "updatedAt": "2026-08-09T10:12:48.601Z",
+      "originalModifiedAt": "2026-08-01T23:51:52.483Z",
+      "origin": null,
+      "documentTemplate": null,
+      "createdBy": null
+    }
+  ],
   "tombstones": [
     {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
@@ -38,5 +61,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "f57e055f3ca699ae56852316739f8a3663ad96dd41f56e3216b207e999d8db66"
+  "contentHash": "a8bc6575ea4113aa85171312b154abf9674d4e1f1486376f4056777dd34b1ecd"
 }
