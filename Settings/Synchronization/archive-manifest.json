@@ -2,12 +2,37 @@
   "schemaVersion": 1,
   "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-12T09:13:01.829Z",
+  "generatedAt": "2026-08-12T09:19:10.946Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "7.0.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "0406d493-f5cb-4c6a-aedd-2e280fc2302e",
+      "path": "Documents/TXT/Отчёт — Тест когитатора модели 2__0406d4930fc2302e.txt",
+      "title": "Отчёт — Тест когитатора модели 2",
+      "fileName": "Отчёт — Тест когитатора модели 2.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 2144,
+      "sha256": "00d6695d27bde4ffb101df9756b9e8f05741a8c49e8eb3ea7e623311b8c45d1a",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [
+        "отчёт"
+      ],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-12T09:19:10.941Z",
+      "updatedAt": "2026-08-12T09:19:10.941Z",
+      "originalModifiedAt": "2026-08-12T09:19:10.941Z",
+      "origin": "internal-editor",
+      "documentTemplate": "report",
+      "createdBy": "Хадрон"
+    }
+  ],
   "tombstones": [
     {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
@@ -59,5 +84,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "e97e910de1a8e8aba0e8376b9d7887e315b635a31b0f12bf5cf030ca0db55f3b"
+  "contentHash": "0cd118f2acc4a7b7ed23334cbec85ac5b4499f071d576f4b70f9b79697f33aa3"
 }
