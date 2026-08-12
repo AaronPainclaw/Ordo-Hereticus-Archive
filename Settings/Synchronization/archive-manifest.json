@@ -1,13 +1,40 @@
 {
   "schemaVersion": 1,
-  "layoutVersion": 5,
+  "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-09T10:16:10.418Z",
+  "generatedAt": "2026-08-12T08:20:32.202Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
-    "version": "4.0.0"
+    "version": "6.1.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "ed00498c-4972-4f75-b801-69ad5244535d",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Abort-2026-08-09T10-15-47-457Z__ed00498c5244535d.txt",
+      "title": "Отчёт Очищающей литании — прерывание 09.08.2026, 13:15:47",
+      "fileName": "Ordo-Hereticus-Cleansing-Abort-2026-08-09T10-15-47-457Z.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 1827,
+      "sha256": "ffd2f2b39b6ce0d20d352d62ebdd320c9fa04103517f5879dee3663c3695c74e",
+      "classification": "ОСОБОЙ ВАЖНОСТИ",
+      "tags": [
+        "Очищающая литания Омниссии",
+        "Инцидент",
+        "Прерывание"
+      ],
+      "notes": "Автоматически созданный журнал прерванной Очищающей литании Омниссии.",
+      "version": 1,
+      "addedAt": "2026-08-12T08:20:32.196Z",
+      "updatedAt": "2026-08-12T08:20:32.196Z",
+      "originalModifiedAt": "2026-08-12T08:20:32.196Z",
+      "origin": "system",
+      "documentTemplate": null,
+      "createdBy": null
+    }
+  ],
   "tombstones": [
     {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
@@ -52,5 +79,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "e09e4a60e8ea4a45b2d23798ab2abb99d373e589c2ea51a5401c4a74407c51e5"
+  "contentHash": "3e6e8a1d95241ec9aa1524dda563a4737a50aafd9df8ebf14415043f604863cf"
 }
