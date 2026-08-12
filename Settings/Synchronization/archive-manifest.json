@@ -2,38 +2,20 @@
   "schemaVersion": 1,
   "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-12T09:19:10.946Z",
+  "generatedAt": "2026-08-12T10:04:51.781Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
-    "version": "7.0.0"
+    "version": "7.1.0"
   },
-  "documents": [
+  "documents": [],
+  "tombstones": [
     {
       "id": "0406d493-f5cb-4c6a-aedd-2e280fc2302e",
       "path": "Documents/TXT/Отчёт — Тест когитатора модели 2__0406d4930fc2302e.txt",
-      "title": "Отчёт — Тест когитатора модели 2",
       "fileName": "Отчёт — Тест когитатора модели 2.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 2144,
-      "sha256": "00d6695d27bde4ffb101df9756b9e8f05741a8c49e8eb3ea7e623311b8c45d1a",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [
-        "отчёт"
-      ],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-12T09:19:10.941Z",
-      "updatedAt": "2026-08-12T09:19:10.941Z",
-      "originalModifiedAt": "2026-08-12T09:19:10.941Z",
-      "origin": "internal-editor",
-      "documentTemplate": "report",
-      "createdBy": "Хадрон"
-    }
-  ],
-  "tombstones": [
+      "version": 2,
+      "deletedAt": "2026-08-12T10:04:51.780Z"
+    },
     {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
       "path": "Documents/~$RB_Tyurma_Vremeni_Dosye.docx",
@@ -84,5 +66,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "0cd118f2acc4a7b7ed23334cbec85ac5b4499f071d576f4b70f9b79697f33aa3"
+  "contentHash": "937fb75fa3f29d4364ebf0d7ff788f3e26ff4f05004cb5f1b62b59f1d7708dc1"
 }
