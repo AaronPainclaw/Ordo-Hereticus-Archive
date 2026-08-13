@@ -2,12 +2,37 @@
   "schemaVersion": 1,
   "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-12T10:04:51.781Z",
+  "generatedAt": "2026-08-13T21:18:06.083Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
-    "version": "7.1.0"
+    "version": "8.0.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "a37fd4bf-7ede-46ce-97c2-e5f2597f5051",
+      "path": "Documents/TXT/Заявление — Заявление на ремонт__a37fd4bf597f5051.txt",
+      "title": "Заявление — Заявление на ремонт",
+      "fileName": "Заявление — Заявление на ремонт.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 1416,
+      "sha256": "d47a190005d36a011fa11cc3ca0f6556b8ae1be8706ba75136f92e3ef9c3367b",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [
+        "заявление"
+      ],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-13T21:18:06.079Z",
+      "updatedAt": "2026-08-13T21:18:06.079Z",
+      "originalModifiedAt": "2026-08-13T21:18:06.079Z",
+      "origin": "internal-editor",
+      "documentTemplate": "statement",
+      "createdBy": "Примус"
+    }
+  ],
   "tombstones": [
     {
       "id": "0406d493-f5cb-4c6a-aedd-2e280fc2302e",
@@ -66,5 +91,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "937fb75fa3f29d4364ebf0d7ff788f3e26ff4f05004cb5f1b62b59f1d7708dc1"
+  "contentHash": "dc9978d39dca3f68d03b07012431ddb21fe91f3cc16ec0f27d03cc522a5c8054"
 }
