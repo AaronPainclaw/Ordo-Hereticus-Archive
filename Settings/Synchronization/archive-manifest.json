@@ -2,38 +2,12 @@
   "schemaVersion": 1,
   "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-14T17:54:55.498Z",
+  "generatedAt": "2026-08-14T20:39:20.704Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
-    "version": "14.0.0"
+    "version": "14.1.0"
   },
-  "documents": [
-    {
-      "id": "e46d4b38-9d38-4d09-aa73-b26c4fa9ca45",
-      "path": "Documents/TXT/Досье — Северан__e46d4b384fa9ca45.txt",
-      "title": "Досье — Северан",
-      "fileName": "Досье — Северан__e46d4b384fa9ca45.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 1641,
-      "sha256": "ab8b3c19cc3a41e2f41ed9411cb58474153a545f5428121e32ff2f094ff66e2f",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [
-        "досье"
-      ],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-14T17:54:47.900Z",
-      "updatedAt": "2026-08-14T17:54:47.900Z",
-      "originalModifiedAt": "2026-08-14T17:54:47.900Z",
-      "origin": "internal-editor",
-      "documentTemplate": "dossier",
-      "createdBy": "Кассиан Фон Валькар",
-      "imperialDate": null
-    }
-  ],
+  "documents": [],
   "tombstones": [
     {
       "id": "0406d493-f5cb-4c6a-aedd-2e280fc2302e",
@@ -85,6 +59,13 @@
       "deletedAt": "2026-08-09T10:16:10.414Z"
     },
     {
+      "id": "e46d4b38-9d38-4d09-aa73-b26c4fa9ca45",
+      "path": "Documents/TXT/Досье — Северан__e46d4b384fa9ca45.txt",
+      "fileName": "Досье — Северан__e46d4b384fa9ca45.txt",
+      "version": 2,
+      "deletedAt": "2026-08-14T20:39:20.698Z"
+    },
+    {
       "id": "ed00498c-4972-4f75-b801-69ad5244535d",
       "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Abort-2026-08-09T10-15-47-457Z__ed00498c5244535d.txt",
       "fileName": "Ordo-Hereticus-Cleansing-Abort-2026-08-09T10-15-47-457Z.txt",
@@ -106,5 +87,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "836c40faff866720ab3c2dbfb56bf3736f2ef62a428d31949cf923a063650657"
+  "contentHash": "909a7c98a3ec882693909a87239b17e9c842d23acc240624d9c5b4d72bd84235"
 }
