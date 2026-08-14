@@ -2,61 +2,12 @@
   "schemaVersion": 1,
   "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-14T14:16:28.729Z",
+  "generatedAt": "2026-08-14T14:16:36.916Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "9.1.0"
   },
-  "documents": [
-    {
-      "id": "584f5b29-df1d-40b5-90d6-6b138e7355b8",
-      "path": "Documents/TXT/Досье — Аколит Инквизиции Ордо Ксенос__584f5b298e7355b8.txt",
-      "title": "Досье — Аколит Инквизиции Ордо Ксенос",
-      "fileName": "Досье — Аколит Инквизиции Ордо Ксенос__584f5b298e7355b8.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 1886,
-      "sha256": "82a54a17509745ed96e41d4e399d2ac5f27c8f7d696267dae12a6814e9c19d46",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [
-        "досье"
-      ],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-14T14:16:20.074Z",
-      "updatedAt": "2026-08-14T14:16:20.074Z",
-      "originalModifiedAt": "2026-08-14T14:16:20.074Z",
-      "origin": "internal-editor",
-      "documentTemplate": "dossier",
-      "createdBy": "Кассиан"
-    },
-    {
-      "id": "a37fd4bf-7ede-46ce-97c2-e5f2597f5051",
-      "path": "Documents/TXT/Заявление — Заявление на ремонт__a37fd4bf597f5051.txt",
-      "title": "Заявление — Заявление на ремонт",
-      "fileName": "Заявление — Заявление на ремонт__a37fd4bf597f5051.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 1416,
-      "sha256": "d47a190005d36a011fa11cc3ca0f6556b8ae1be8706ba75136f92e3ef9c3367b",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [
-        "заявление"
-      ],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-13T21:18:06.079Z",
-      "updatedAt": "2026-08-13T21:18:06.079Z",
-      "originalModifiedAt": "2026-08-13T21:18:06.079Z",
-      "origin": "internal-editor",
-      "documentTemplate": "statement",
-      "createdBy": "Примус"
-    }
-  ],
+  "documents": [],
   "tombstones": [
     {
       "id": "0406d493-f5cb-4c6a-aedd-2e280fc2302e",
@@ -66,11 +17,25 @@
       "deletedAt": "2026-08-12T10:04:51.780Z"
     },
     {
+      "id": "584f5b29-df1d-40b5-90d6-6b138e7355b8",
+      "path": "Documents/TXT/Досье — Аколит Инквизиции Ордо Ксенос__584f5b298e7355b8.txt",
+      "fileName": "Досье — Аколит Инквизиции Ордо Ксенос__584f5b298e7355b8.txt",
+      "version": 2,
+      "deletedAt": "2026-08-14T14:16:36.906Z"
+    },
+    {
       "id": "707da13f-f6d9-4ea7-b500-6c9abf3ae305",
       "path": "Documents/~$RB_Tyurma_Vremeni_Dosye.docx",
       "fileName": "~$RB_Tyurma_Vremeni_Dosye.docx",
       "version": 2,
       "deletedAt": "2026-07-28T19:25:44.195Z"
+    },
+    {
+      "id": "a37fd4bf-7ede-46ce-97c2-e5f2597f5051",
+      "path": "Documents/TXT/Заявление — Заявление на ремонт__a37fd4bf597f5051.txt",
+      "fileName": "Заявление — Заявление на ремонт__a37fd4bf597f5051.txt",
+      "version": 2,
+      "deletedAt": "2026-08-14T14:16:36.906Z"
     },
     {
       "id": "a75ba1d9-2ddd-4abe-b77f-c36d1bc2cf43",
@@ -115,5 +80,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "76fbf55934eb269b31fa0b8178d26b451af89b44da803bd00db228c0a64ddc6a"
+  "contentHash": "a2953d07f209fea75ef5529e7ab1fd7ce913d3997bd72aed3855f00b9db3324d"
 }
