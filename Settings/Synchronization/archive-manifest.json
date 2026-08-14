@@ -2,12 +2,38 @@
   "schemaVersion": 1,
   "layoutVersion": 6,
   "archiveId": "ff60f0c4-22ee-4462-b01f-ca7339fb1fbf",
-  "generatedAt": "2026-08-14T14:16:36.916Z",
+  "generatedAt": "2026-08-14T17:54:47.913Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
-    "version": "9.1.0"
+    "version": "14.0.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "e46d4b38-9d38-4d09-aa73-b26c4fa9ca45",
+      "path": "Documents/TXT/Досье — Северан__e46d4b384fa9ca45.txt",
+      "title": "Досье — Северан",
+      "fileName": "Досье — Северан.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 1641,
+      "sha256": "ab8b3c19cc3a41e2f41ed9411cb58474153a545f5428121e32ff2f094ff66e2f",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [
+        "досье"
+      ],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-14T17:54:47.900Z",
+      "updatedAt": "2026-08-14T17:54:47.900Z",
+      "originalModifiedAt": "2026-08-14T17:54:47.900Z",
+      "origin": "internal-editor",
+      "documentTemplate": "dossier",
+      "createdBy": "Кассиан Фон Валькар",
+      "imperialDate": null
+    }
+  ],
   "tombstones": [
     {
       "id": "0406d493-f5cb-4c6a-aedd-2e280fc2302e",
@@ -80,5 +106,5 @@
       "deletedAt": "2026-07-28T19:25:44.195Z"
     }
   ],
-  "contentHash": "a2953d07f209fea75ef5529e7ab1fd7ce913d3997bd72aed3855f00b9db3324d"
+  "contentHash": "47f12c690dc1d0f2384a92202a96a26dad75f27bb131de03754d979739d2ad5a"
 }
