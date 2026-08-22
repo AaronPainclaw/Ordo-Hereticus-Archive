@@ -2,12 +2,36 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T21:15:07.656Z",
+  "generatedAt": "2026-08-22T21:18:44.312Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
   },
   "documents": [
+    {
+      "id": "4fdf0a81-2e12-4063-a270-dbdae47a225c",
+      "path": "Video/9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
+      "title": "9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU",
+      "fileName": "9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU.mp4",
+      "extension": ".mp4",
+      "category": "video",
+      "mime": "video/mp4",
+      "transport": "git-lfs",
+      "size": 2007092,
+      "sha256": "2e1b4d4855b1dc1e1da355a192e2abb03a83828db78f85f680a00c62f36ab010",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T21:18:44.302Z",
+      "updatedAt": "2026-08-22T21:18:44.302Z",
+      "originalModifiedAt": "2026-08-22T21:17:56.182Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
     {
       "id": "736e6e26-638b-4ca5-a39d-d1f434c832a9",
       "path": "Documents/Word/ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
@@ -157,5 +181,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "85a7dab7dba4ab83b41320432100088c4c3124a596eaa9d2ed3ea147d6c6eeb3"
+  "contentHash": "d0a1fa882f6d67841c47505de771a8df85517ff00b61d8b491a14673d4bf8ebb"
 }
