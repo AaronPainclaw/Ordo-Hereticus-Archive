@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T21:35:46.968Z",
+  "generatedAt": "2026-08-22T21:35:54.780Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -102,6 +102,30 @@
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
       "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "f3fd4ab7-f2fb-4b74-83d8-f2e61f66bc78",
+      "path": "Documents/TXT/APPROVED/Текстовый документ — 23.08.2026__f3fd4ab7f2fb4b74.md",
+      "title": "Текстовый документ — 23.08.2026",
+      "fileName": "Текстовый документ — 23.08.2026__f3fd4ab7f2fb4b74.md",
+      "extension": ".md",
+      "category": "text",
+      "mime": "text/markdown; charset=utf-8",
+      "transport": "git-blob",
+      "size": 479,
+      "sha256": "8de940c001d83d6519338391854b198b71a290146cb8d25fcf394f81a594c91d",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T21:35:53.654Z",
+      "updatedAt": "2026-08-22T21:35:53.654Z",
+      "originalModifiedAt": "2026-08-22T21:35:53.654Z",
+      "origin": "github-published",
+      "documentTemplate": null,
+      "createdBy": null,
+      "createdByAccountId": null,
       "imperialDate": null
     }
   ],
@@ -219,5 +243,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "2da59f6f9d94a715db4f515e5aac72b64f4a67593fab5f1804cfe928383dc866"
+  "contentHash": "f439da6526b10b430a3fce1f3985d88e5b65c9e0746491a65683667bb0dbabd2"
 }
