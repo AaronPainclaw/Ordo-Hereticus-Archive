@@ -2,12 +2,61 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T15:30:31.482Z",
+  "generatedAt": "2026-08-22T15:37:20.643Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.1.0"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "0a709441-094c-4b87-bf21-aea05723eb9c",
+      "path": "Documents/TXT/Досье_Феррум_Тета__0a7094415723eb9c.txt",
+      "title": "Досье_Феррум_Тета",
+      "fileName": "Досье_Феррум_Тета.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 8729,
+      "sha256": "84d09a58898e21a781d6dc948566e4e093a4d449ff6a28df712baf8b556caf78",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T15:37:20.635Z",
+      "updatedAt": "2026-08-22T15:37:20.635Z",
+      "originalModifiedAt": "2026-08-19T15:14:25.725Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Адриан Корвин Вейл",
+      "createdByAccountId": "03fa6438-bb9f-4d0f-a452-45803fa04d6d",
+      "imperialDate": null
+    },
+    {
+      "id": "dad5fcd9-46a7-4d76-9653-9614ea586a81",
+      "path": "Documents/TXT/Аварийная Распечатка FT-17__dad5fcd9ea586a81.txt",
+      "title": "Аварийная Распечатка FT-17",
+      "fileName": "Аварийная Распечатка FT-17.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 4907,
+      "sha256": "4ddb64f99f44777e3c52402980f3262b5f980216ac08e892ff94c78e251d35e6",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T15:36:56.785Z",
+      "updatedAt": "2026-08-22T15:36:56.785Z",
+      "originalModifiedAt": "2026-08-22T12:11:08.324Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Адриан Корвин Вейл",
+      "createdByAccountId": "03fa6438-bb9f-4d0f-a452-45803fa04d6d",
+      "imperialDate": null
+    }
+  ],
   "tombstones": [
     {
       "id": "06db646d-b2bf-45dc-baf4-e6cf551f13ea",
@@ -66,5 +115,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "ba53fef6b75bcb8501b92b4383c345d35713883464e75328ccba476085228f83"
+  "contentHash": "d0b7512613c5fb18e9944feb3f3c1f5377726016d676f5e051f0d5a0cebe0ff5"
 }
