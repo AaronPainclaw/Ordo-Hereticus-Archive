@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T12:12:05.752Z",
+  "generatedAt": "2026-08-22T12:52:24.523Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.0.0"
@@ -26,6 +26,30 @@
       "addedAt": "2026-08-22T12:12:05.745Z",
       "updatedAt": "2026-08-22T12:12:05.745Z",
       "originalModifiedAt": "2026-08-19T15:14:25.725Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "638f72ac-be03-4199-8584-30867fa2f88e",
+      "path": "Audio/Есть только Война__638f72ac7fa2f88e.mp3",
+      "title": "Есть только Война",
+      "fileName": "Есть только Война.mp3",
+      "extension": ".mp3",
+      "category": "audio",
+      "mime": "audio/mpeg",
+      "transport": "git-lfs",
+      "size": 2150928,
+      "sha256": "8d37e22aae7f726cd54a5a59f758d2603ffec3ff03a0cb5701a225732fbc76e5",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T12:52:24.511Z",
+      "updatedAt": "2026-08-22T12:52:24.511Z",
+      "originalModifiedAt": "2026-07-06T16:22:02.785Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -94,5 +118,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "cd61d533dd0eaa89579c38528d73dea35bed35358a34dfc1f5425f192e9cfb44"
+  "contentHash": "2e2613e67bdc8305d5f7b1cc77ed385039593dce744cde82e7bdb31d01b39ee6"
 }
