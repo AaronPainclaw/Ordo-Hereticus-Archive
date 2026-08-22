@@ -2,12 +2,36 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "3677a4cf-b146-46ad-823f-82a2e25f1db9",
-  "generatedAt": "2026-08-22T21:29:45.920Z",
+  "generatedAt": "2026-08-22T21:29:52.268Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
   },
   "documents": [
+    {
+      "id": "2b9dce47-4fbf-4426-9ac6-f5ec88fc48d4",
+      "path": "Documents/Word/~$РБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "title": "~$РБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b",
+      "fileName": "~$РБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "extension": ".docx",
+      "category": "document",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "transport": "git-blob",
+      "size": 162,
+      "sha256": "5ab1407b59bcdde97bafc12553aa0b3c02799b3a6cda712906c8c8108af9c1e1",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T21:29:52.246Z",
+      "updatedAt": "2026-08-22T21:29:52.246Z",
+      "originalModifiedAt": "2026-08-22T21:29:51.214Z",
+      "origin": "workspace",
+      "documentTemplate": null,
+      "createdBy": null,
+      "createdByAccountId": null,
+      "imperialDate": null
+    },
     {
       "id": "3ee5820d-9753-45c0-8a9b-a18677008f1b",
       "path": "Audio/Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
@@ -142,5 +166,5 @@
       "deletedAt": "2026-08-22T21:21:13.046Z"
     }
   ],
-  "contentHash": "1495c6fea23b3a1db4d02ea222a919ab51c236a2dd98508fb059d02a6a5c058c"
+  "contentHash": "bac1cff1deaa1d0027c78095af7155d0fa6d39ff7d444d88c77245ca6a9fe02d"
 }
