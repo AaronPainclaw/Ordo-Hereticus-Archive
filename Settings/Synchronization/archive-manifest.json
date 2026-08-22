@@ -2,86 +2,20 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T12:52:24.523Z",
+  "generatedAt": "2026-08-22T15:30:31.482Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
-    "version": "18.0.0"
+    "version": "18.1.0"
   },
-  "documents": [
+  "documents": [],
+  "tombstones": [
     {
       "id": "06db646d-b2bf-45dc-baf4-e6cf551f13ea",
       "path": "Documents/TXT/Досье_Феррум_Тета__06db646d551f13ea.txt",
-      "title": "Досье_Феррум_Тета",
       "fileName": "Досье_Феррум_Тета.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 8729,
-      "sha256": "84d09a58898e21a781d6dc948566e4e093a4d449ff6a28df712baf8b556caf78",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T12:12:05.745Z",
-      "updatedAt": "2026-08-22T12:12:05.745Z",
-      "originalModifiedAt": "2026-08-19T15:14:25.725Z",
-      "origin": "import",
-      "documentTemplate": null,
-      "createdBy": "Кассиан Фон Валькар",
-      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
-      "imperialDate": null
+      "version": 2,
+      "deletedAt": "2026-08-22T15:30:31.474Z"
     },
-    {
-      "id": "638f72ac-be03-4199-8584-30867fa2f88e",
-      "path": "Audio/Есть только Война__638f72ac7fa2f88e.mp3",
-      "title": "Есть только Война",
-      "fileName": "Есть только Война.mp3",
-      "extension": ".mp3",
-      "category": "audio",
-      "mime": "audio/mpeg",
-      "transport": "git-lfs",
-      "size": 2150928,
-      "sha256": "8d37e22aae7f726cd54a5a59f758d2603ffec3ff03a0cb5701a225732fbc76e5",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T12:52:24.511Z",
-      "updatedAt": "2026-08-22T12:52:24.511Z",
-      "originalModifiedAt": "2026-07-06T16:22:02.785Z",
-      "origin": "import",
-      "documentTemplate": null,
-      "createdBy": "Кассиан Фон Валькар",
-      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
-      "imperialDate": null
-    },
-    {
-      "id": "d6a0b8bc-5502-4c99-9ed5-5727ef676d2a",
-      "path": "Documents/TXT/Аварийная_распечатка_FT-17__d6a0b8bcef676d2a.txt",
-      "title": "Аварийная_распечатка_FT-17",
-      "fileName": "Аварийная_распечатка_FT-17.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 4907,
-      "sha256": "4ddb64f99f44777e3c52402980f3262b5f980216ac08e892ff94c78e251d35e6",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T12:12:05.737Z",
-      "updatedAt": "2026-08-22T12:12:05.737Z",
-      "originalModifiedAt": "2026-08-19T15:14:28.077Z",
-      "origin": "import",
-      "documentTemplate": null,
-      "createdBy": "Кассиан Фон Валькар",
-      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
-      "imperialDate": null
-    }
-  ],
-  "tombstones": [
     {
       "id": "1951d315-a27f-45f6-b5b5-013c406f3b79",
       "path": "Documents/TXT/Аварийная Распечатка FT-17__1951d315406f3b79.txt",
@@ -95,6 +29,13 @@
       "fileName": "Аварийная_распечатка_FT-17.txt",
       "version": 2,
       "deletedAt": "2026-08-22T12:10:46.077Z"
+    },
+    {
+      "id": "638f72ac-be03-4199-8584-30867fa2f88e",
+      "path": "Audio/Есть только Война__638f72ac7fa2f88e.mp3",
+      "fileName": "Есть только Война.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T15:30:31.474Z"
     },
     {
       "id": "a9ca7233-ac62-4baa-a924-a5dfa6d83c8d",
@@ -111,6 +52,13 @@
       "deletedAt": "2026-08-21T19:06:09.523Z"
     },
     {
+      "id": "d6a0b8bc-5502-4c99-9ed5-5727ef676d2a",
+      "path": "Documents/TXT/Аварийная_распечатка_FT-17__d6a0b8bcef676d2a.txt",
+      "fileName": "Аварийная_распечатка_FT-17.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T15:30:31.474Z"
+    },
+    {
       "id": "de6beb0e-b753-485b-b255-5a6ce059e49d",
       "path": "Documents/TXT/Досье_Феррум_Тета__de6beb0ee059e49d.txt",
       "fileName": "Досье_Феррум_Тета.txt",
@@ -118,5 +66,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "2e2613e67bdc8305d5f7b1cc77ed385039593dce744cde82e7bdb31d01b39ee6"
+  "contentHash": "ba53fef6b75bcb8501b92b4383c345d35713883464e75328ccba476085228f83"
 }
