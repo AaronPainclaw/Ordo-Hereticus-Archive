@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
-  "generatedAt": "2026-08-22T21:55:59.363Z",
+  "generatedAt": "2026-08-22T21:56:16.308Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -81,34 +81,6 @@
       "imperialDate": null
     },
     {
-      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
-      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
-      "title": "Аварийный отчёт Очищающей литании — потеряно 5 файлов",
-      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
-      "extension": ".txt",
-      "category": "text",
-      "mime": "text/plain; charset=utf-8",
-      "transport": "git-blob",
-      "size": 1302,
-      "sha256": "3f88b93f0ee7831a0c69323413cf01f513427a648319ef56d4a478eb324800f7",
-      "classification": "ОСОБОЙ ВАЖНОСТИ",
-      "tags": [
-        "Очищающая литания Омниссии",
-        "Инцидент",
-        "Полная очистка"
-      ],
-      "notes": "Первичный автоматический отчёт нового архивного контура.",
-      "version": 1,
-      "addedAt": "2026-08-22T21:55:52.078Z",
-      "updatedAt": "2026-08-22T21:55:52.078Z",
-      "originalModifiedAt": "2026-08-22T21:55:52.078Z",
-      "origin": "system",
-      "documentTemplate": null,
-      "createdBy": null,
-      "createdByAccountId": null,
-      "imperialDate": null
-    },
-    {
       "id": "b3935656-ff0b-46f6-a7cd-98bbbf78a44b",
       "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
       "title": "ИРРБ_Великая_Планетарная_Война_редакция_1.0",
@@ -157,6 +129,14 @@
       "imperialDate": null
     }
   ],
-  "tombstones": [],
-  "contentHash": "3358df7d8fe74d678abd93a40e690965ab636567d84a9be372784ea4da66a86f"
+  "tombstones": [
+    {
+      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
+      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:16.288Z"
+    }
+  ],
+  "contentHash": "cfd6bff4a3def2bcbd481e4392715098fbcc008437d976d68f461c72d037f604"
 }
