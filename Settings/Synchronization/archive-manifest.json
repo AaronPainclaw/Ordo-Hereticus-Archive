@@ -1,94 +1,112 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "3677a4cf-b146-46ad-823f-82a2e25f1db9",
-  "generatedAt": "2026-08-22T20:23:09.425Z",
+  "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
+  "generatedAt": "2026-08-22T20:24:39.166Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.1"
   },
-  "documents": [
+  "documents": [],
+  "tombstones": [
+    {
+      "id": "06db646d-b2bf-45dc-baf4-e6cf551f13ea",
+      "path": "Documents/TXT/Досье_Феррум_Тета__06db646d551f13ea.txt",
+      "fileName": "Досье_Феррум_Тета.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T15:30:31.474Z"
+    },
+    {
+      "id": "0a709441-094c-4b87-bf21-aea05723eb9c",
+      "path": "Documents/TXT/Досье_Феррум_Тета__0a7094415723eb9c.txt",
+      "fileName": "Досье_Феррум_Тета.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T16:34:39.499Z"
+    },
+    {
+      "id": "1951d315-a27f-45f6-b5b5-013c406f3b79",
+      "path": "Documents/TXT/Аварийная Распечатка FT-17__1951d315406f3b79.txt",
+      "fileName": "Аварийная Распечатка FT-17.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T12:11:54.553Z"
+    },
+    {
+      "id": "3f18825e-af52-4f83-b15e-917fda1804d4",
+      "path": "Documents/TXT/Аварийная_распечатка_FT-17__3f18825eda1804d4.txt",
+      "fileName": "Аварийная_распечатка_FT-17.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T12:10:46.077Z"
+    },
+    {
+      "id": "598b9f19-b841-46f1-a988-3376eb5cd782",
+      "path": "Audio/Есть только Война__598b9f19eb5cd782.mp3",
+      "fileName": "Есть только Война.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T16:34:39.499Z"
+    },
+    {
+      "id": "638f72ac-be03-4199-8584-30867fa2f88e",
+      "path": "Audio/Есть только Война__638f72ac7fa2f88e.mp3",
+      "fileName": "Есть только Война.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T15:30:31.474Z"
+    },
+    {
+      "id": "69f9c3c7-5edc-4924-b968-11a96971a7a4",
+      "path": "Audio/Есть только Война__69f9c3c76971a7a4.mp3",
+      "fileName": "Есть только Война.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T17:44:55.403Z"
+    },
+    {
+      "id": "a0248aa0-602b-4bac-99ae-0e8a5b5ae76a",
+      "path": "Audio/Есть только Война__a0248aa05b5ae76a.mp3",
+      "fileName": "Есть только Война.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T18:11:21.284Z"
+    },
+    {
+      "id": "a9ca7233-ac62-4baa-a924-a5dfa6d83c8d",
+      "path": "Documents/TXT/Досье_Феррум_Тета__a9ca7233a6d83c8d.txt",
+      "fileName": "Досье_Феррум_Тета.txt",
+      "version": 3,
+      "deletedAt": "2026-08-21T19:06:09.523Z"
+    },
     {
       "id": "c6fc9271-6e10-4346-9cef-a1ccf059bbd5",
       "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__c6fc9271f059bbd5.docx",
-      "title": "ИРРБ_Великая_Планетарная_Война_редакция_1.0",
       "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0__c6fc9271f059bbd5.docx",
-      "extension": ".docx",
-      "category": "document",
-      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-      "transport": "git-blob",
-      "size": 59684,
-      "sha256": "7407ad0480e38c712bc7bbd72ee97ba7b72900abf18043410f1d9fa460b569dd",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T20:21:44.151Z",
-      "updatedAt": "2026-08-22T20:21:44.151Z",
-      "originalModifiedAt": "2026-08-22T20:21:58.210Z",
-      "origin": "import",
-      "documentTemplate": null,
-      "createdBy": "Кассиан Фон Валькар",
-      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
-      "imperialDate": null
-    },
-    {
-      "id": "github-625e7a90f3af32c659e19f74b6b86a52",
-      "path": "Documents/TXT/APPROVED/Текстовый документ — 22.08.2026__4dc12c4494e14820.md",
-      "title": "Текстовый документ — 22.08.2026__4dc12c4494e14820",
-      "fileName": "Текстовый документ — 22.08.2026__4dc12c4494e14820.md",
-      "extension": ".md",
-      "category": "text",
-      "mime": "text/markdown; charset=utf-8",
-      "transport": "git-blob",
-      "size": 439,
-      "sha256": "4ccc9961d946c6aef583215e4423d2d8f33191f02c1e352472ce5760d2be55dc",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T20:23:09.373Z",
-      "updatedAt": "2026-08-22T20:23:09.373Z",
-      "originalModifiedAt": "2026-08-22T20:23:09.373Z",
-      "origin": "github",
-      "documentTemplate": null,
-      "createdBy": null,
-      "createdByAccountId": null,
-      "imperialDate": null
-    },
-    {
-      "id": "github-f78ca45baa28652c33805e7315bf1848",
-      "path": "Documents/TXT/APPROVED/Досье — Корвин Диомид Каин-Вард__ab32b5c8a2f54a3e.md",
-      "title": "Досье — Корвин Диомид Каин-Вард__ab32b5c8a2f54a3e",
-      "fileName": "Досье — Корвин Диомид Каин-Вард__ab32b5c8a2f54a3e.md",
-      "extension": ".md",
-      "category": "text",
-      "mime": "text/markdown; charset=utf-8",
-      "transport": "git-blob",
-      "size": 6088,
-      "sha256": "ed4e9929b4cf8d259474310ede009566e49761cf5758a155b5c3e75173329e28",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T20:20:45.061Z",
-      "updatedAt": "2026-08-22T20:20:45.061Z",
-      "originalModifiedAt": "2026-08-22T20:20:45.061Z",
-      "origin": "github",
-      "documentTemplate": null,
-      "createdBy": null,
-      "createdByAccountId": null,
-      "imperialDate": null
-    }
-  ],
-  "tombstones": [
-    {
-      "id": "1a9159fc-16c8-4dec-82bd-61e2483592b2",
-      "path": "Documents/TXT/Отчет по происшествию на корабле__1a9159fc483592b2.txt",
-      "fileName": "Отчет по происшествию на корабле.txt",
       "version": 2,
-      "deletedAt": "2026-08-22T19:51:49.638Z"
+      "deletedAt": "2026-08-22T20:24:39.145Z"
+    },
+    {
+      "id": "d491a7b0-1303-49cc-af6e-335a4c3d6e92",
+      "path": "Documents/TXT/Текстовый документ — 21.08.2026__d491a7b04c3d6e92.txt",
+      "fileName": "Текстовый документ — 21.08.2026.txt",
+      "version": 2,
+      "deletedAt": "2026-08-21T19:06:09.523Z"
+    },
+    {
+      "id": "d6a0b8bc-5502-4c99-9ed5-5727ef676d2a",
+      "path": "Documents/TXT/Аварийная_распечатка_FT-17__d6a0b8bcef676d2a.txt",
+      "fileName": "Аварийная_распечатка_FT-17.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T15:30:31.474Z"
+    },
+    {
+      "id": "dad5fcd9-46a7-4d76-9653-9614ea586a81",
+      "path": "Documents/TXT/Аварийная Распечатка FT-17__dad5fcd9ea586a81.txt",
+      "fileName": "Аварийная Распечатка FT-17.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T16:34:39.499Z"
+    },
+    {
+      "id": "de6beb0e-b753-485b-b255-5a6ce059e49d",
+      "path": "Documents/TXT/Досье_Феррум_Тета__de6beb0ee059e49d.txt",
+      "fileName": "Досье_Феррум_Тета.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "23aa7eef90b207ceab0522d6d3d4dc5a34b2cd8955423b82e632bf1926a212b9"
+  "contentHash": "36bb28cbc50d5018fcaa2d6ec1f7479c8471ef372617da248aa4cb5412b90e75"
 }
