@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "3677a4cf-b146-46ad-823f-82a2e25f1db9",
-  "generatedAt": "2026-08-22T21:44:56.537Z",
+  "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
+  "generatedAt": "2026-08-22T21:55:59.363Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -25,7 +25,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:18:58.807Z",
       "updatedAt": "2026-08-22T21:18:58.807Z",
-      "originalModifiedAt": "2026-08-22T21:21:17.127Z",
+      "originalModifiedAt": "2026-08-22T21:55:56.057Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -49,7 +49,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:18:44.302Z",
       "updatedAt": "2026-08-22T21:18:44.302Z",
-      "originalModifiedAt": "2026-08-22T21:21:19.757Z",
+      "originalModifiedAt": "2026-08-22T21:55:59.246Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -73,11 +73,39 @@
       "version": 1,
       "addedAt": "2026-08-22T21:15:07.646Z",
       "updatedAt": "2026-08-22T21:15:07.646Z",
-      "originalModifiedAt": "2026-08-22T21:21:18.842Z",
+      "originalModifiedAt": "2026-08-22T21:55:57.293Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
       "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
+      "title": "Аварийный отчёт Очищающей литании — потеряно 5 файлов",
+      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 1302,
+      "sha256": "3f88b93f0ee7831a0c69323413cf01f513427a648319ef56d4a478eb324800f7",
+      "classification": "ОСОБОЙ ВАЖНОСТИ",
+      "tags": [
+        "Очищающая литания Омниссии",
+        "Инцидент",
+        "Полная очистка"
+      ],
+      "notes": "Первичный автоматический отчёт нового архивного контура.",
+      "version": 1,
+      "addedAt": "2026-08-22T21:55:52.078Z",
+      "updatedAt": "2026-08-22T21:55:52.078Z",
+      "originalModifiedAt": "2026-08-22T21:55:52.078Z",
+      "origin": "system",
+      "documentTemplate": null,
+      "createdBy": null,
+      "createdByAccountId": null,
       "imperialDate": null
     },
     {
@@ -97,7 +125,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:15:07.557Z",
       "updatedAt": "2026-08-22T21:15:07.557Z",
-      "originalModifiedAt": "2026-08-22T21:21:17.889Z",
+      "originalModifiedAt": "2026-08-22T21:55:56.783Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -121,7 +149,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:44:36.688Z",
       "updatedAt": "2026-08-22T21:44:31.487Z",
-      "originalModifiedAt": "2026-08-22T21:44:36.688Z",
+      "originalModifiedAt": "2026-08-22T21:55:56.425Z",
       "origin": "github",
       "documentTemplate": null,
       "createdBy": null,
@@ -129,56 +157,6 @@
       "imperialDate": null
     }
   ],
-  "tombstones": [
-    {
-      "id": "13ad90f1-6b44-4fcf-95e6-66b84b0779aa",
-      "path": "Documents/Word/~$РБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
-      "fileName": "~$РБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:29:45.904Z"
-    },
-    {
-      "id": "1a9159fc-16c8-4dec-82bd-61e2483592b2",
-      "path": "Documents/TXT/Отчет по происшествию на корабле__1a9159fc483592b2.txt",
-      "fileName": "Отчет по происшествию на корабле.txt",
-      "version": 2,
-      "deletedAt": "2026-08-22T19:51:49.638Z"
-    },
-    {
-      "id": "2b9dce47-4fbf-4426-9ac6-f5ec88fc48d4",
-      "path": "Documents/Word/~$РБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
-      "fileName": "~$РБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:35:32.805Z"
-    },
-    {
-      "id": "c6fc9271-6e10-4346-9cef-a1ccf059bbd5",
-      "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__c6fc9271f059bbd5.docx",
-      "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0__c6fc9271f059bbd5.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:21:13.046Z"
-    },
-    {
-      "id": "f3fd4ab7-f2fb-4b74-83d8-f2e61f66bc78",
-      "path": "Documents/TXT/APPROVED/Текстовый документ — 23.08.2026__f3fd4ab7f2fb4b74.md",
-      "fileName": "Текстовый документ — 23.08.2026__f3fd4ab7f2fb4b74.md",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:36:54.812Z"
-    },
-    {
-      "id": "github-625e7a90f3af32c659e19f74b6b86a52",
-      "path": "Documents/TXT/APPROVED/Текстовый документ — 22.08.2026__4dc12c4494e14820.md",
-      "fileName": "Текстовый документ — 22.08.2026__4dc12c4494e14820.md",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:21:13.046Z"
-    },
-    {
-      "id": "github-f78ca45baa28652c33805e7315bf1848",
-      "path": "Documents/TXT/APPROVED/Досье — Корвин Диомид Каин-Вард__ab32b5c8a2f54a3e.md",
-      "fileName": "Досье — Корвин Диомид Каин-Вард__ab32b5c8a2f54a3e.md",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:21:13.046Z"
-    }
-  ],
-  "contentHash": "4402579baa520c64846e7e76259ad5642afbab7bbf73aa27222466c9d4493f8a"
+  "tombstones": [],
+  "contentHash": "3358df7d8fe74d678abd93a40e690965ab636567d84a9be372784ea4da66a86f"
 }
