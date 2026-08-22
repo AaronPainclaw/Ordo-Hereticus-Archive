@@ -2,12 +2,61 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T21:12:47.018Z",
+  "generatedAt": "2026-08-22T21:15:07.656Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
   },
-  "documents": [],
+  "documents": [
+    {
+      "id": "736e6e26-638b-4ca5-a39d-d1f434c832a9",
+      "path": "Documents/Word/ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
+      "title": "ИРРБ_Прерыватель_Реальности_редакция_1.0",
+      "fileName": "ИРРБ_Прерыватель_Реальности_редакция_1.0.docx",
+      "extension": ".docx",
+      "category": "document",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "transport": "git-blob",
+      "size": 801110,
+      "sha256": "49c8c014a6ff4d3aa21c388db7cd07e41c4f14247180b4b46ac8489b3511f336",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T21:15:07.646Z",
+      "updatedAt": "2026-08-22T21:15:07.646Z",
+      "originalModifiedAt": "2026-08-22T18:12:16.138Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "b3935656-ff0b-46f6-a7cd-98bbbf78a44b",
+      "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "title": "ИРРБ_Великая_Планетарная_Война_редакция_1.0",
+      "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0.docx",
+      "extension": ".docx",
+      "category": "document",
+      "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "transport": "git-blob",
+      "size": 59684,
+      "sha256": "7407ad0480e38c712bc7bbd72ee97ba7b72900abf18043410f1d9fa460b569dd",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-22T21:15:07.557Z",
+      "updatedAt": "2026-08-22T21:15:07.557Z",
+      "originalModifiedAt": "2026-08-22T00:10:51.375Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    }
+  ],
   "tombstones": [
     {
       "id": "06db646d-b2bf-45dc-baf4-e6cf551f13ea",
@@ -108,5 +157,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "cca950b415ff06d48531bf34f5034094d32b67dfc2384d374796356ad57a0145"
+  "contentHash": "85a7dab7dba4ab83b41320432100088c4c3124a596eaa9d2ed3ea147d6c6eeb3"
 }
