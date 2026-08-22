@@ -2,37 +2,12 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "9f3c43b1-4dc4-42fa-9e8c-c1e78d065c69",
-  "generatedAt": "2026-08-22T18:10:32.588Z",
+  "generatedAt": "2026-08-22T18:11:21.295Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.3.0"
   },
-  "documents": [
-    {
-      "id": "a0248aa0-602b-4bac-99ae-0e8a5b5ae76a",
-      "path": "Audio/Есть только Война__a0248aa05b5ae76a.mp3",
-      "title": "Есть только Война",
-      "fileName": "Есть только Война.mp3",
-      "extension": ".mp3",
-      "category": "audio",
-      "mime": "audio/mpeg",
-      "transport": "git-lfs",
-      "size": 2150928,
-      "sha256": "8d37e22aae7f726cd54a5a59f758d2603ffec3ff03a0cb5701a225732fbc76e5",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-22T18:10:32.579Z",
-      "updatedAt": "2026-08-22T18:10:32.579Z",
-      "originalModifiedAt": "2026-07-06T16:22:02.785Z",
-      "origin": "import",
-      "documentTemplate": null,
-      "createdBy": "Кассиан Фон Валькар",
-      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
-      "imperialDate": null
-    }
-  ],
+  "documents": [],
   "tombstones": [
     {
       "id": "06db646d-b2bf-45dc-baf4-e6cf551f13ea",
@@ -84,6 +59,13 @@
       "deletedAt": "2026-08-22T17:44:55.403Z"
     },
     {
+      "id": "a0248aa0-602b-4bac-99ae-0e8a5b5ae76a",
+      "path": "Audio/Есть только Война__a0248aa05b5ae76a.mp3",
+      "fileName": "Есть только Война.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T18:11:21.284Z"
+    },
+    {
       "id": "a9ca7233-ac62-4baa-a924-a5dfa6d83c8d",
       "path": "Documents/TXT/Досье_Феррум_Тета__a9ca7233a6d83c8d.txt",
       "fileName": "Досье_Феррум_Тета.txt",
@@ -119,5 +101,5 @@
       "deletedAt": "2026-08-22T12:10:42.745Z"
     }
   ],
-  "contentHash": "0e7edd9ce8cc1c07f9211cf7d4a2d3d5f2b670e4e4849cf42765bc97457a78d2"
+  "contentHash": "abb7e1258bed639ef9cd6001122259d4cabc0f9b7d5185be164c5cf18980b73c"
 }
