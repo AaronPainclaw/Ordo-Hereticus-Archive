@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "layoutVersion": 7,
   "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
-  "generatedAt": "2026-08-23T17:06:45.551Z",
+  "generatedAt": "2026-08-23T17:42:57.002Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -54,6 +54,30 @@
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
       "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "e081348e-639b-4827-8284-33c8f0a4f6b8",
+      "path": "Documents/TXT/APPROVED/Досье Северана Ноктина Вейра__e081348e639b4827.md",
+      "title": "Досье Северана Ноктина Вейра",
+      "fileName": "Досье Северана Ноктина Вейра__e081348e639b4827.md",
+      "extension": ".md",
+      "category": "text",
+      "mime": "text/markdown; charset=utf-8",
+      "transport": "git-blob",
+      "size": 5250,
+      "sha256": "326c826cb7d73c1192a67e7a422e49dd36bcde5138be504cd92578cef8980a31",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:42:55.732Z",
+      "updatedAt": "2026-08-23T17:42:55.732Z",
+      "originalModifiedAt": "2026-08-23T17:42:55.732Z",
+      "origin": "github-published",
+      "documentTemplate": null,
+      "createdBy": null,
+      "createdByAccountId": null,
       "imperialDate": null
     },
     {
@@ -142,5 +166,5 @@
       "deletedAt": "2026-08-22T21:56:53.096Z"
     }
   ],
-  "contentHash": "d235b78d637745dcc1ae08b36c7fe08e2ed14ab2affa3286a70fdf4d9da1b1f2"
+  "contentHash": "9c65b84840d3b98c2f5e0411c66204a631fb126164111374672a6eb8b8370921"
 }
