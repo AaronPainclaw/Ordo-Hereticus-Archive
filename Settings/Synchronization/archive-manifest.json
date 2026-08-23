@@ -1,13 +1,85 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "4ddf6449-68f1-4265-b772-09506959a1af",
-  "generatedAt": "2026-08-23T17:04:47.496Z",
+  "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
+  "generatedAt": "2026-08-23T17:06:21.748Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
   },
   "documents": [
+    {
+      "id": "70899800-f8cc-4910-b1b2-544f5c62372c",
+      "path": "Documents/TXT/Досье — Корвин Диомид Каин-Вард__708998005c62372c.txt",
+      "title": "Досье — Корвин Диомид Каин-Вард",
+      "fileName": "Досье — Корвин Диомид Каин-Вард.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 5655,
+      "sha256": "20b7a714a9568ef59ab7095413694e419d04607a813ed3c8ef66b9b7bb6b9db7",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:06:21.735Z",
+      "updatedAt": "2026-08-23T17:06:21.735Z",
+      "originalModifiedAt": "2026-08-22T13:18:44.518Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "777b2462-b675-40c5-bf55-9f96a2c3c37d",
+      "path": "Documents/TXT/Досье_Феррум_Тета__777b2462a2c3c37d.txt",
+      "title": "Досье_Феррум_Тета",
+      "fileName": "Досье_Феррум_Тета.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 8729,
+      "sha256": "84d09a58898e21a781d6dc948566e4e093a4d449ff6a28df712baf8b556caf78",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:06:21.743Z",
+      "updatedAt": "2026-08-23T17:06:21.743Z",
+      "originalModifiedAt": "2026-08-19T15:14:25.725Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "ec8c4f8c-a0d5-4c55-861d-c563988dcdfe",
+      "path": "Documents/TXT/Аварийная Распечатка FT-17__ec8c4f8c988dcdfe.txt",
+      "title": "Аварийная Распечатка FT-17",
+      "fileName": "Аварийная Распечатка FT-17.txt",
+      "extension": ".txt",
+      "category": "text",
+      "mime": "text/plain; charset=utf-8",
+      "transport": "git-blob",
+      "size": 4907,
+      "sha256": "4ddb64f99f44777e3c52402980f3262b5f980216ac08e892ff94c78e251d35e6",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:06:21.724Z",
+      "updatedAt": "2026-08-23T17:06:21.724Z",
+      "originalModifiedAt": "2026-08-22T12:11:08.324Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
     {
       "id": "github-2c5da994e0085306085c2458e0a25b36",
       "path": "Documents/TXT/APPROVED/Досье Адриана Корвина Вейла__b6c7bfa5486c44f9.md",
@@ -25,7 +97,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:44:36.688Z",
       "updatedAt": "2026-08-22T21:44:31.487Z",
-      "originalModifiedAt": "2026-08-23T17:04:46.007Z",
+      "originalModifiedAt": "2026-08-22T21:55:56.425Z",
       "origin": "github",
       "documentTemplate": null,
       "createdBy": null,
@@ -33,6 +105,42 @@
       "imperialDate": null
     }
   ],
-  "tombstones": [],
-  "contentHash": "549aa5d93e5329980420da548f67b57d7b3fb5a123fd473d4b087a78b5097775"
+  "tombstones": [
+    {
+      "id": "3ee5820d-9753-45c0-8a9b-a18677008f1b",
+      "path": "Audio/Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
+      "fileName": "Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:45.030Z"
+    },
+    {
+      "id": "4fdf0a81-2e12-4063-a270-dbdae47a225c",
+      "path": "Video/9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
+      "fileName": "9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:48.280Z"
+    },
+    {
+      "id": "736e6e26-638b-4ca5-a39d-d1f434c832a9",
+      "path": "Documents/Word/ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
+      "fileName": "ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:50.828Z"
+    },
+    {
+      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
+      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:16.288Z"
+    },
+    {
+      "id": "b3935656-ff0b-46f6-a7cd-98bbbf78a44b",
+      "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:53.096Z"
+    }
+  ],
+  "contentHash": "270dee819697cb4e7cdea0a0fac7d146b7b470f5ea0714d4de622867760b6bf9"
 }
