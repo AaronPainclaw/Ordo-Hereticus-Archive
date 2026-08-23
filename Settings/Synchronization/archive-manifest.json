@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "e367b5f2-276b-485c-bca7-856baae48424",
-  "generatedAt": "2026-08-23T17:06:32.895Z",
+  "archiveId": "4ddf6449-68f1-4265-b772-09506959a1af",
+  "generatedAt": "2026-08-23T17:06:36.634Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -25,7 +25,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.735Z",
       "updatedAt": "2026-08-23T17:06:21.735Z",
-      "originalModifiedAt": "2026-08-23T17:06:32.532Z",
+      "originalModifiedAt": "2026-08-23T17:06:36.320Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -49,7 +49,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.743Z",
       "updatedAt": "2026-08-23T17:06:21.743Z",
-      "originalModifiedAt": "2026-08-23T17:06:32.840Z",
+      "originalModifiedAt": "2026-08-23T17:06:36.591Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -73,7 +73,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.724Z",
       "updatedAt": "2026-08-23T17:06:21.724Z",
-      "originalModifiedAt": "2026-08-23T17:06:32.249Z",
+      "originalModifiedAt": "2026-08-23T17:06:35.998Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -97,7 +97,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:44:36.688Z",
       "updatedAt": "2026-08-22T21:44:31.487Z",
-      "originalModifiedAt": "2026-08-23T17:00:24.126Z",
+      "originalModifiedAt": "2026-08-23T17:04:46.007Z",
       "origin": "github",
       "documentTemplate": null,
       "createdBy": null,
@@ -105,14 +105,6 @@
       "imperialDate": null
     }
   ],
-  "tombstones": [
-    {
-      "id": "e46d4b38-9d38-4d09-aa73-b26c4fa9ca45",
-      "path": "Documents/TXT/Досье — Северан__e46d4b384fa9ca45.txt",
-      "fileName": "Досье — Северан__e46d4b384fa9ca45.txt",
-      "version": 2,
-      "deletedAt": "2026-08-22T18:05:07.527Z"
-    }
-  ],
-  "contentHash": "54b8ffec37a466f831c50d93477fc0434895db11f00ac201dfc1a27aadcca006"
+  "tombstones": [],
+  "contentHash": "5a23265808970a9a44d8addcbd151edab7e479f61457902be51c55c955a2efc9"
 }
