@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "4ddf6449-68f1-4265-b772-09506959a1af",
-  "generatedAt": "2026-08-23T17:43:26.736Z",
+  "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
+  "generatedAt": "2026-08-23T17:49:02.464Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -25,7 +25,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.735Z",
       "updatedAt": "2026-08-23T17:06:21.735Z",
-      "originalModifiedAt": "2026-08-23T17:06:36.320Z",
+      "originalModifiedAt": "2026-08-22T13:18:44.518Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -49,11 +49,59 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.743Z",
       "updatedAt": "2026-08-23T17:06:21.743Z",
-      "originalModifiedAt": "2026-08-23T17:06:36.591Z",
+      "originalModifiedAt": "2026-08-19T15:14:25.725Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
       "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "b8724718-d017-4cbe-a02b-a2ecb899577c",
+      "path": "Audio/Есть только Война__b8724718b899577c.mp3",
+      "title": "Есть только Война",
+      "fileName": "Есть только Война.mp3",
+      "extension": ".mp3",
+      "category": "audio",
+      "mime": "audio/mpeg",
+      "transport": "git-lfs",
+      "size": 2150928,
+      "sha256": "8d37e22aae7f726cd54a5a59f758d2603ffec3ff03a0cb5701a225732fbc76e5",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:49:02.455Z",
+      "updatedAt": "2026-08-23T17:49:02.455Z",
+      "originalModifiedAt": "2026-07-06T16:22:02.785Z",
+      "origin": "import",
+      "documentTemplate": null,
+      "createdBy": "Кассиан Фон Валькар",
+      "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
+      "imperialDate": null
+    },
+    {
+      "id": "e081348e-639b-4827-8284-33c8f0a4f6b8",
+      "path": "Documents/TXT/APPROVED/Досье Северана Ноктина Вейра__e081348e639b4827.md",
+      "title": "Досье Северана Ноктина Вейра",
+      "fileName": "Досье Северана Ноктина Вейра__e081348e639b4827.md",
+      "extension": ".md",
+      "category": "text",
+      "mime": "text/markdown; charset=utf-8",
+      "transport": "git-blob",
+      "size": 5250,
+      "sha256": "326c826cb7d73c1192a67e7a422e49dd36bcde5138be504cd92578cef8980a31",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:42:55.732Z",
+      "updatedAt": "2026-08-23T17:42:55.732Z",
+      "originalModifiedAt": "2026-08-23T17:42:55.732Z",
+      "origin": "github-published",
+      "documentTemplate": null,
+      "createdBy": null,
+      "createdByAccountId": null,
       "imperialDate": null
     },
     {
@@ -73,7 +121,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.724Z",
       "updatedAt": "2026-08-23T17:06:21.724Z",
-      "originalModifiedAt": "2026-08-23T17:06:35.998Z",
+      "originalModifiedAt": "2026-08-22T12:11:08.324Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -97,31 +145,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:44:36.688Z",
       "updatedAt": "2026-08-22T21:44:31.487Z",
-      "originalModifiedAt": "2026-08-23T17:04:46.007Z",
-      "origin": "github",
-      "documentTemplate": null,
-      "createdBy": null,
-      "createdByAccountId": null,
-      "imperialDate": null
-    },
-    {
-      "id": "github-2fe1c6d854e98c24f49c1b47dc81e7c8",
-      "path": "Documents/TXT/APPROVED/Досье Северана Ноктина Вейра__e081348e639b4827.md",
-      "title": "Досье Северана Ноктина Вейра",
-      "fileName": "Досье Северана Ноктина Вейра__e081348e639b4827.md",
-      "extension": ".md",
-      "category": "text",
-      "mime": "text/markdown; charset=utf-8",
-      "transport": "git-blob",
-      "size": 5250,
-      "sha256": "326c826cb7d73c1192a67e7a422e49dd36bcde5138be504cd92578cef8980a31",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-23T17:42:55.022Z",
-      "updatedAt": "2026-08-23T17:42:55.732Z",
-      "originalModifiedAt": "2026-08-23T17:43:26.698Z",
+      "originalModifiedAt": "2026-08-22T21:55:56.425Z",
       "origin": "github",
       "documentTemplate": null,
       "createdBy": null,
@@ -129,6 +153,42 @@
       "imperialDate": null
     }
   ],
-  "tombstones": [],
-  "contentHash": "e39941eec92d5aeabf879d2cd9e3c4904449ac12fa83468d5e20386d274978d7"
+  "tombstones": [
+    {
+      "id": "3ee5820d-9753-45c0-8a9b-a18677008f1b",
+      "path": "Audio/Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
+      "fileName": "Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:45.030Z"
+    },
+    {
+      "id": "4fdf0a81-2e12-4063-a270-dbdae47a225c",
+      "path": "Video/9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
+      "fileName": "9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:48.280Z"
+    },
+    {
+      "id": "736e6e26-638b-4ca5-a39d-d1f434c832a9",
+      "path": "Documents/Word/ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
+      "fileName": "ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:50.828Z"
+    },
+    {
+      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
+      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
+      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:16.288Z"
+    },
+    {
+      "id": "b3935656-ff0b-46f6-a7cd-98bbbf78a44b",
+      "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
+      "version": 2,
+      "deletedAt": "2026-08-22T21:56:53.096Z"
+    }
+  ],
+  "contentHash": "9cce1a676cb2585188792496843d042252248ac04a536c9f0dff7f270da9b849"
 }
