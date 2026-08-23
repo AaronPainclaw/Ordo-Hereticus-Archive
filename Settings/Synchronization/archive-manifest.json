@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
-  "generatedAt": "2026-08-23T17:49:26.906Z",
+  "archiveId": "e367b5f2-276b-485c-bca7-856baae48424",
+  "generatedAt": "2026-08-23T17:49:24.026Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -25,7 +25,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.735Z",
       "updatedAt": "2026-08-23T17:06:21.735Z",
-      "originalModifiedAt": "2026-08-22T13:18:44.518Z",
+      "originalModifiedAt": "2026-08-23T17:06:32.532Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -49,7 +49,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.743Z",
       "updatedAt": "2026-08-23T17:06:21.743Z",
-      "originalModifiedAt": "2026-08-19T15:14:25.725Z",
+      "originalModifiedAt": "2026-08-23T17:06:32.840Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -73,35 +73,11 @@
       "version": 1,
       "addedAt": "2026-08-23T17:49:02.455Z",
       "updatedAt": "2026-08-23T17:49:02.455Z",
-      "originalModifiedAt": "2026-07-06T16:22:02.785Z",
+      "originalModifiedAt": "2026-08-23T17:49:23.805Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
       "createdByAccountId": "278247df-c98b-402f-9b63-2bb552e8aa8f",
-      "imperialDate": null
-    },
-    {
-      "id": "e081348e-639b-4827-8284-33c8f0a4f6b8",
-      "path": "Documents/TXT/APPROVED/Досье Северана Ноктина Вейра__e081348e639b4827.md",
-      "title": "Досье Северана Ноктина Вейра",
-      "fileName": "Досье Северана Ноктина Вейра__e081348e639b4827.md",
-      "extension": ".md",
-      "category": "text",
-      "mime": "text/markdown; charset=utf-8",
-      "transport": "git-blob",
-      "size": 5250,
-      "sha256": "326c826cb7d73c1192a67e7a422e49dd36bcde5138be504cd92578cef8980a31",
-      "classification": "СЛУЖЕБНЫЙ",
-      "tags": [],
-      "notes": "",
-      "version": 1,
-      "addedAt": "2026-08-23T17:42:55.732Z",
-      "updatedAt": "2026-08-23T17:42:55.732Z",
-      "originalModifiedAt": "2026-08-23T17:42:55.732Z",
-      "origin": "github-published",
-      "documentTemplate": null,
-      "createdBy": null,
-      "createdByAccountId": null,
       "imperialDate": null
     },
     {
@@ -121,7 +97,7 @@
       "version": 1,
       "addedAt": "2026-08-23T17:06:21.724Z",
       "updatedAt": "2026-08-23T17:06:21.724Z",
-      "originalModifiedAt": "2026-08-22T12:11:08.324Z",
+      "originalModifiedAt": "2026-08-23T17:06:32.249Z",
       "origin": "import",
       "documentTemplate": null,
       "createdBy": "Кассиан Фон Валькар",
@@ -145,7 +121,31 @@
       "version": 1,
       "addedAt": "2026-08-22T21:44:36.688Z",
       "updatedAt": "2026-08-22T21:44:31.487Z",
-      "originalModifiedAt": "2026-08-22T21:55:56.425Z",
+      "originalModifiedAt": "2026-08-23T17:00:24.126Z",
+      "origin": "github",
+      "documentTemplate": null,
+      "createdBy": null,
+      "createdByAccountId": null,
+      "imperialDate": null
+    },
+    {
+      "id": "github-2fe1c6d854e98c24f49c1b47dc81e7c8",
+      "path": "Documents/TXT/APPROVED/Досье Северана Ноктина Вейра__e081348e639b4827.md",
+      "title": "Досье Северана Ноктина Вейра",
+      "fileName": "Досье Северана Ноктина Вейра__e081348e639b4827.md",
+      "extension": ".md",
+      "category": "text",
+      "mime": "text/markdown; charset=utf-8",
+      "transport": "git-blob",
+      "size": 5250,
+      "sha256": "326c826cb7d73c1192a67e7a422e49dd36bcde5138be504cd92578cef8980a31",
+      "classification": "СЛУЖЕБНЫЙ",
+      "tags": [],
+      "notes": "",
+      "version": 1,
+      "addedAt": "2026-08-23T17:42:55.022Z",
+      "updatedAt": "2026-08-23T17:42:55.732Z",
+      "originalModifiedAt": "2026-08-23T17:42:55.022Z",
       "origin": "github",
       "documentTemplate": null,
       "createdBy": null,
@@ -155,40 +155,12 @@
   ],
   "tombstones": [
     {
-      "id": "3ee5820d-9753-45c0-8a9b-a18677008f1b",
-      "path": "Audio/Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
-      "fileName": "Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
+      "id": "e46d4b38-9d38-4d09-aa73-b26c4fa9ca45",
+      "path": "Documents/TXT/Досье — Северан__e46d4b384fa9ca45.txt",
+      "fileName": "Досье — Северан__e46d4b384fa9ca45.txt",
       "version": 2,
-      "deletedAt": "2026-08-22T21:56:45.030Z"
-    },
-    {
-      "id": "4fdf0a81-2e12-4063-a270-dbdae47a225c",
-      "path": "Video/9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
-      "fileName": "9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:48.280Z"
-    },
-    {
-      "id": "736e6e26-638b-4ca5-a39d-d1f434c832a9",
-      "path": "Documents/Word/ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
-      "fileName": "ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:50.828Z"
-    },
-    {
-      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
-      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
-      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:16.288Z"
-    },
-    {
-      "id": "b3935656-ff0b-46f6-a7cd-98bbbf78a44b",
-      "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
-      "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:53.096Z"
+      "deletedAt": "2026-08-22T18:05:07.527Z"
     }
   ],
-  "contentHash": "43c59654778dc0a020ccba66c5af0a4e4800a88bcc628744e80c3c48e9bfe0c2"
+  "contentHash": "3123c9615050d096af3c072763d46c1726272c71ecbb693eda02f9a406024683"
 }
