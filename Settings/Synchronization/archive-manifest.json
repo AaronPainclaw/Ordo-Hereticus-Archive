@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "layoutVersion": 7,
-  "archiveId": "b915d868-e80d-4c97-ba15-3900c764dfa0",
-  "generatedAt": "2026-08-22T21:56:53.105Z",
+  "archiveId": "e367b5f2-276b-485c-bca7-856baae48424",
+  "generatedAt": "2026-08-23T17:00:24.208Z",
   "sourceApplication": {
     "id": "ordo-hereticus-archive",
     "version": "18.5.2"
@@ -25,7 +25,7 @@
       "version": 1,
       "addedAt": "2026-08-22T21:44:36.688Z",
       "updatedAt": "2026-08-22T21:44:31.487Z",
-      "originalModifiedAt": "2026-08-22T21:55:56.425Z",
+      "originalModifiedAt": "2026-08-23T17:00:24.126Z",
       "origin": "github",
       "documentTemplate": null,
       "createdBy": null,
@@ -35,40 +35,12 @@
   ],
   "tombstones": [
     {
-      "id": "3ee5820d-9753-45c0-8a9b-a18677008f1b",
-      "path": "Audio/Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
-      "fileName": "Совершенство Машины _ Warhammer 40k Music__3ee5820d77008f1b.mp3",
+      "id": "e46d4b38-9d38-4d09-aa73-b26c4fa9ca45",
+      "path": "Documents/TXT/Досье — Северан__e46d4b384fa9ca45.txt",
+      "fileName": "Досье — Северан__e46d4b384fa9ca45.txt",
       "version": 2,
-      "deletedAt": "2026-08-22T21:56:45.030Z"
-    },
-    {
-      "id": "4fdf0a81-2e12-4063-a270-dbdae47a225c",
-      "path": "Video/9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
-      "fileName": "9z7o9sEaI8LnMX4YebtJ+rIo7UYVwcAU__4fdf0a81e47a225c.mp4",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:48.280Z"
-    },
-    {
-      "id": "736e6e26-638b-4ca5-a39d-d1f434c832a9",
-      "path": "Documents/Word/ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
-      "fileName": "ИРРБ_Прерыватель_Реальности_редакция_1.0__736e6e2634c832a9.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:50.828Z"
-    },
-    {
-      "id": "a0a18428-b796-4ccf-86c5-5f0cc4aa6e09",
-      "path": "Documents/TXT/Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z__a0a18428c4aa6e09.txt",
-      "fileName": "Ordo-Hereticus-Cleansing-Completed-2026-08-22T21-53-47-027Z.txt",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:16.288Z"
-    },
-    {
-      "id": "b3935656-ff0b-46f6-a7cd-98bbbf78a44b",
-      "path": "Documents/Word/ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
-      "fileName": "ИРРБ_Великая_Планетарная_Война_редакция_1.0__b3935656bf78a44b.docx",
-      "version": 2,
-      "deletedAt": "2026-08-22T21:56:53.096Z"
+      "deletedAt": "2026-08-22T18:05:07.527Z"
     }
   ],
-  "contentHash": "44f8f1ac847706b707ffa975781091ef06906a6b720e72f49ade2ad81ceeeef4"
+  "contentHash": "f27fbc14331ecd9461ff4bb5c03645ccc96767a115292d35a4bff7dffad5f7d7"
 }
